@@ -1,7 +1,12 @@
 .intro {
-  padding-left: 10px
+  padding-left: 10px;
+  margin: 12px;
+  font-weight: bold;
+  font-style: oblique;
+  text-align: center;
 }
 
 .container1 {
-  padding-left: 10px
+  padding-left: 10px;
+  margin: 12px;
 }
