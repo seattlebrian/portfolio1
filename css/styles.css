@@ -23,12 +23,3 @@ h2.intro {
   font-weight: bold;
   color: red;
 }
-
-.projects {
-  margin: 12px;
-  border: 2px solid black;
-  padding: 4px;
-  background-color: grey;
-  color: white
-
-}
