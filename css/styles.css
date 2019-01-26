@@ -23,3 +23,7 @@ h2.intro {
   font-weight: bold;
   color: red;
 }
+
+.floats {
+  float: right;
+}
